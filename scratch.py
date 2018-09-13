@@ -6,16 +6,16 @@ import monthdelta
 import re
 
 
-filename = "France PD-L1 1999 may feb clack string"
+filename = "France PDL1 Excel_worksheet_France Apr-May 2017"
 
 secondmonth=firstmonth=""
-months = ("jan", "feb", "mar", "april", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec")
+months = ("jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec")
 monthmatch = next((x for x in months if x in filename.lower()), False)
 if(monthmatch!=False):
     firstmonth=monthmatch
 
 
-monthmatch = next((x for x in months if x in filename.replace(firstmonth, '').lower()), False)
+monthmatch = next((x for x in months if x in filename.lower().replace(firstmonth, '')), False)
 if(monthmatch!=False):
     secondmonth=monthmatch
 

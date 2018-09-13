@@ -1,0 +1,337 @@
+Hospital Name,Lab Name,Address,City,Postcode,"Lab type 
+(Academic, Public, Private)","Offer PD-L1 Testing 
+(Yes/No/Validating)",When did you start testing?,"PD-L1 Testing Performed 
+(In house/ Send out)",Name of Sendout Lab,"PD-L1 Diagnostic algorithm 
+(Individual, Panel, Reflex)","PD-L1 volume (NSCLC) 
+for February to March","EGFR volume (NSCLC) 
+for February to March","ALK volume (NSCLC) 
+for February to March","
+NSCLC volume 
+for February to March","Number of Methods 
+for PD-L1","Methodology 
+(LDT/Kit/Both)","LDT PD-L1 
+Antibody(ies)","PD-L1 Kit 
+28-8 Dako Kit ","PD-L1 Kit 
+22C3 Dako Kit ","PD-L1 Kit 
+SP263 
+Ventana Kit ","Laboratory Algorithm  
+(Parallel, Sequential)",PD-L1 Platform/ Autostainer 1,PD-L1 Platform/ Autostainer 2,"Clinical cut-off
+(50%, 10%, 1%, 
+Reporting percentage tumor cells expressed)","PD-L1 Expression level at
+?1%","PD-L1 Expression level at
+overall ?50% ","Positivity for 
+1% cut-off","Positivity for 
+5% cut-off","Positivity for 
+15% cut-off","Positivity for 
+20% cut-off","Positivity for 
+25% cut-off","Positivity for 
+50% cut-off","PD-L1 
+Average TAT",Report Style,PD-L1 Funding (Local/ Pharma),comments,filename,worksheetname,Country,data_collection_period_start,date_collection_period_end,Disease,worksheet,country,year,firstdate,seconddate
+CO n°34 Hôpital Central,Laboratoire d'anatomopathologie/ Service d'anatomie et de cytologie pathologiques,29 avenue du Maréchal de Lattre de tassigny,Nancy Cedex,54035.0,Academic,Yes,2016,In house,,Individual,105.0,330.0,330.0,330.0,1.0,LDT,E1L3N,,,,Sequential,Ventana,Leica,Reporting percentage tumor cells expressed,55%,5%,Over 50%,-,-,-,-,5%,4.0,,Local,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2017,France,2/1/2017,3/31/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Hôpital Emile Muller,Laboratoire de Cytogénétique Hôpital Emile Muller,20 rue du Dr. Laennec,Mulhouse Cedex,68070.0,Hospital,Yes,2016,In house,,Individual,85.0,285.0,285.0,285.0,1.0,LDT,E1L3N,,,,Sequential,Ventana,,Reporting percentage tumor cells expressed,53%,5%,Over 50%,-,0%,-,-,5%,4.0,,Local,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2018,France,2/2/2017,4/1/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+"Hôpitaux Universitaires Paris Est, site Tenon",Unité de génomique des Tumeurs Solides/Laboratoire d'anatomopathologie,4 rue de la Chine,Paris cedex 20,75970.0,Hospital,Yes,2016,In house,,Individual,60.0,213.0,213.0,213.0,2.0,LDT,"E1L3N, SP142",,,,Sequential,Ventana,,Reporting percentage tumor cells expressed,47%,5%,Over 50%,-,-,-,-,5%,4.0,,Local,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2019,France,2/3/2017,4/2/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Hôpital Saint-Louis,Laboratoire d'anatomopathologie/Laboratoire de Biologie Moléculaire/ Service d'anatomie pathologique,1 avenue Claude Vellefaux,Paris cedex 10,75475.0,Hospital,Yes,2016,In house,,Individual,75.0,189.0,189.0,189.0,2.0,Both,SP142,,,Yes,Sequential,Ventana,Leica,Reporting percentage tumor cells expressed,50%,12%,Over 50%,-,-,-,10%,-,4.0,,Local,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2020,France,2/4/2017,4/3/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+"Centre Jean Perrin,",LBM OncoGènAuvergne,"58 Rue Montalembert, BP392",Clermont-Ferrand Cédex 1,63011.0,Hospital,Yes,Feb-17,In house,,Individual,66.0,185.0,185.0,185.0,2.0,Both,E1L3N,,,Yes,Sequential,Ventana,Dako,Reporting percentage tumor cells expressed,,,,,,,,,2.0,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2021,France,2/5/2017,4/4/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Hôpital de la Timone,Laboratoire d'anatomopathologie/ 2ème étage Bâtime Timone 2,264 rue St Pierre,Marseille cedex 5,13385.0,Hospital,Yes,2016,In house,,Individual,77.0,171.0,171.0,171.0,2.0,Both,SP142,,,Yes,Sequential,Ventana,,Reporting percentage tumor cells expressed,52%,8%,Over 50%,-,-,-,10%,-,4.0,,Local,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2022,France,2/6/2017,4/5/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+AP-HP - Hôpital Hôtel Dieu,Service d'Anatomie et de Cytologie Pathologiques,1 place du Parvis Notre Dame,Paris ,75181.0,Hospital,Yes,2016,In house,,Individual,55.0,144.0,144.0,144.0,1.0,Kit,,,,Yes,Sequential,Ventana,Leica,Reporting percentage tumor cells expressed,,,Over 50%,-,-,-,10%,-,4.0,,Local,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2023,France,2/7/2017,4/6/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Hôpital Nord (Bat C/ niveau -1),Laboratoire d'anatomopathologie et de génétique moléculaire,25 Boulevard Pasteur,Saint-Etienne Cedex 02,42055.0,Academic,Yes,2016,In house,,Individual,43.0,144.0,144.0,144.0,1.0,LDT,E1L3N,,,,Sequential,Ventana,,Reporting percentage tumor cells expressed,58%,10%,Over 50%,-,-,-,-,9%,4.0,,Local,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2024,France,2/8/2017,4/7/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Centre Georges-François Leclerc,Laboratoire d'anatomopathologie/Laboratoire de Biologie Moléculaire/ Unité d'natomie et de cytologie pathologique,1 rue du Professeur Marion BP 77980,Dijon Cedex,21000.0,Private,Yes,2016,In house,,Individual,33.0,134.0,134.0,134.0,2.0,Both,SP142,,,Yes,Sequential,Ventana,,Reporting percentage tumor cells expressed,48%,11%,Over 50%,-,-,-,10%,-,4.0,,Local,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2025,France,2/9/2017,4/8/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+UF de biologie cellulaire,Laboratoire de Biologie Moléculaire/ Pôle de biologie - laboratoire Pol Bouin,45 rue Cognacq-Jay,Reims cedex,51092.0,Academic,Yes,2016,In house,,Individual,37.0,128.0,128.0,128.0,1.0,LDT,E1L3N,,,,Sequential,Ventana,,Reporting percentage tumor cells expressed,,,Over 50%,-,-,-,-,-,4.0,,Local,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2026,France,2/10/2017,4/9/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Hôpital européen Georges-Pompidou,Laboratoire de Biochimie/ UF de Pharmacogénétique et Oncologie Moléculaire HEGP,"20, rue Leblanc",Paris cedex 15,75908.0,Hospital,Yes,2016,In house,,Individual,35.0,119.0,119.0,119.0,2.0,LDT,"28-8, E1L3N",,,,Sequential,Ventana,Leica,Reporting percentage tumor cells expressed,,,Over 50%,-,-,-,-,-,4.0,,Local,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2027,France,2/11/2017,4/10/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Hôpital Edouard Herriot,Laboratoire d'Anatomie Pathologique/ UF biologie des tumeurs,5 place d'Arsonval,Lyon Cedex 03,69437.0,Academic,Yes,2016,In house,,Individual,28.0,101.0,101.0,101.0,1.0,Kit,,,,Yes,Sequential,Ventana,,Reporting percentage tumor cells expressed,49%,9%,Over 50%,-,-,-,10%,-,4.0,,Local,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2028,France,2/12/2017,4/11/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+"CHU de Nancy, Hôpital de Brabois",Service de Génétique,Allé du Morvan,Nancy,54035.0,Hospital,Validating,,In house,,,,100.0,100.0,100.0,2.0,LDT,E1L3N; SP142,,,,,Ventana,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2029,France,2/13/2017,4/12/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Site Hôpital Bichat,Laboratoire d'anatomopathologie/Laboratoire de Biologie Moléculaire/ Département de Pathologie Beaujon-Bichat,46 rue Henry Huchard,Paris cedex 18,75877.0,Hospital,Yes,2016,In house,,Individual,28.0,95.0,95.0,95.0,2.0,Both,SP142,,,Yes,Sequential,Ventana,Leica,Reporting percentage tumor cells expressed,49%,8%,Over 50%,-,-,-,10%,-,4.0,,Local,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2030,France,2/14/2017,4/13/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+CHU de Bordeaux Hôpital Haut-Lévêque ,Service de Biologie des tumeurs,CHU de Bordeaux Hôpital Haut-Lévêque ,Bordeaux,33604.0,Academic,Validating,,In house,,,,93.0,93.0,93.0,1.0,LDT,22C3,,,,,Ventana,Leica,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2031,France,2/15/2017,4/14/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Hôpital Gui de Chauliac,Département de Biopathologie cellulaire et tissulaire des tumeurs/Laboratoire d'anatomie et de cytologie pathologique,80 avenue Augustin fliche,Montpellier Cedex 05,34295.0,Academic,Validating,,In house,,,,88.0,88.0,88.0,2.0,Both,E1L3N; SP142,,,Yes,Sequential,Ventana,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2032,France,2/16/2017,4/15/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Centre Henri Becquerel,"Rue d'Amiens, CS11516 ",,Rouen Cedex,76038.0,Private,Yes,Feb-17,In house,,Reflex,50.0,87.0,87.0,87.0,3.0,Both,E1L3N,Yes,,Yes,Sequential,Ventana,Dako,Reporting percentage tumor cells expressed,40%,,70%,-,-,50%,-,-,2.0,,Local,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2033,France,2/17/2017,4/16/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Hôpital Saint-Antoine,Laboratoire d'anatomopathologie/ Service d'anatomie et de Cytologie pathologiques,184 rue du Faubourg Saint Antoine,Paris cedex 12,75571.0,Hospital,Yes,2016,In house,,Individual,27.0,86.0,86.0,86.0,3.0,Both,28-8; E1L3N,,,Yes,Sequential,Ventana,Leica,Reporting percentage tumor cells expressed,,,Over 50%,-,-,-,-,-,4.0,,Local,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2034,France,2/18/2017,4/17/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Hôpital du Bocage,"Laboratoire d'anatomopathologie et de biologie moléculaire /chromosomique et moléculaire/ Plateau technique de Biologie, Service de pathologie",2 rue Angélique Ducoudray BP,Dijon,21079.0,Academic,Yes,2016,In house,,Individual,19.0,86.0,86.0,86.0,1.0,Kit,,,,Yes,Sequential,Ventane,,Reporting percentage tumor cells expressed,52%,7%,Over 50%,-,-,-,10%,-,4.0,,Local,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2035,France,2/19/2017,4/18/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Institut de Cancérologie de Lorraine-Alexis Vautrin,Laboratoire d'anatomopathologie/Service de Biopathologie - Unité d'anatomie pathologique,Avenue de bourgogne CS 30519,Vandoeuvre-lès-Nancy,54519.0,Hospital,Yes,Jan-17,In house,,Reflex,21.0,85.0,85.0,85.0,3.0,Both,E1L3N; SP142,Yes,,,Sequential,Ventana,Dako,Reporting percentage tumor cells expressed,48%,10%,45%,-,-,-,-,15%,3.0,,Local,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2036,France,2/20/2017,4/19/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Institut Paoli Calmettes,Laboratoire d'anatomopathologie et de biologie moléculaire/Département de Bio-pathologie,232 Boulevard Saint Marguerite,Marseille Cedex 09,13273.0,Hospital,Yes,Jan-17,In house,,Individual,17.0,85.0,85.0,85.0,3.0,Both,E1L3N; SP142,,,Yes,Sequential,Ventana,,Reporting percentage tumor cells expressed,,,,,,,11%,,3.0,,Local,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2037,France,2/21/2017,4/20/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Institut Bergonié,Département de Biopathologie/Unité de Pathologie Moléculaire,229 cours de l'Argonne,Bordeaux,33000.0,Hospital,Yes,Feb-17,In house,,Individual,25.0,83.0,83.0,83.0,4.0,Both,SP142,Yes,Yes,Yes,Sequential,Ventana,Dako,Reporting percentage tumor cells expressed,,,,,,,,,2.0,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2038,France,2/22/2017,4/21/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+"CHU de Nantes, Hôpital Hôtel Dieu","Laboratoire de Biochimie, Institut de Biologie",9 quai Moncousu,Nantes,44093.0,Academic,Yes,Jan-17,In house,,Reflex,40.0,81.0,81.0,81.0,4.0,Both,SP142; 22C3,Yes,,Yes,Sequential,Ventana,Dako,Reporting percentage tumor cells expressed,,,,,,,11%,,4.0,,Local,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2039,France,2/23/2017,4/22/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Faculté de Médecine Nord,Laboratoire d'anatomopathologie et de biologie moléculaire,Boulevard Pierre Dramard,Marseille Cedex 20,13916.0,Hospital,Yes,Jan-17,In house,,Individual,23.0,76.0,76.0,76.0,3.0,Both,E1L3N; SP142,,,Yes,Sequential,Ventana,,Reporting percentage tumor cells expressed,52%,,,,,,10%,,4.0,,Local,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2040,France,2/24/2017,4/23/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Institut Curie,Laboratoire d'anatomopathologie/Département Biologie des tumeurs,26 rue d'Ulm,Paris,75005.0,Hospital,Yes,Jan-17,In house,,Individual,22.0,67.0,67.0,67.0,2.0,Both,SP142,,,Yes,Sequential,Ventana,Leica,Reporting percentage tumor cells expressed,,,50%,,,,,,3.0,,Local,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2041,France,2/25/2017,4/24/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Hôpital Albert Michallon,Unité de pathologie moléculaire/Unité de biochimie des cancers et biothérapies / Institut de Biologie et de Pathologie,CS 10217,Grenoble,38043.0,Academic,Yes,2016,In house,,Individual,7.0,64.0,64.0,64.0,1.0,LDT,E1L3N,,,,Sequential,Ventana,,Reporting percentage tumor cells expressed,55%,11%,Over 50%,-,-,-,-,11%,4.0,,Local,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2042,France,2/26/2017,4/25/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Hôpital Pasteur,Laboratoire de Pathologie Moléculaire,"30 avenue de la voie romaine, Pavillon J, BP69",Nice Cedex 01,6002.0,Public,Yes,Feb-17,In house,,Individual,13.0,59.0,59.0,59.0,5.0,Both,E1L3N; SP142,Yes,Yes,Yes,Sequential,Ventana,Dako,Reporting percentage tumor cells expressed,,,,,,,,,2.0,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2043,France,2/27/2017,4/26/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+CHU - Paris; Hopital Necker - Enfants Malades,Service d'Anatomie et de Cytologie Pathologiques,149 rue des Sevres,Paris ,75743.0,Hospital,Yes,Jan-17,In house,,Individual,26.0,58.0,58.0,58.0,3.0,Both,E1L3N; SP142,,,Yes,Sequential,Ventana,Dako,Reporting percentage tumor cells expressed,,,,,,,,,3.0,,Local,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2044,France,2/28/2017,4/27/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+BP 30042,Laboratoire de Biologie Moléculaire CLCC Paul Strauss,3 rue de la porte de l'hôpital,Strasbourg,67005.0,Hospital,Validating,,In house,,,,56.0,56.0,56.0,1.0,LDT,E1L3N,,,,,Ventana,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2045,France,3/1/2017,4/28/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Institut Goustave Roussy,Laboratoire de Biologie Moléculaire/Département de biologie et de Pathologie Méeicales,114 rue Edouard Vaillant,Paris Villejuif Cedex,94805.0,Private,No,,,,,,56.0,56.0,56.0,1.0,Kit,,Yes,,,,Ventana,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2046,France,3/2/2017,4/29/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+"Institut de cancérologie de l'Ouest Angers, Nantes",Laboratoire de Biologie Moléculaire/Département de biopathologie du cancer Oncopharmacologie et pharmacogénétique,15 rue Boquel,Angers Cedex 02,49055.0,Hospital,Validating,,In house,,,,55.0,55.0,55.0,3.0,Both,28-8; E1L3N,,Yes,,Sequential,Ventana,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2047,France,3/3/2017,4/30/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+"CHU Amiens - Picardie, Hôpital Nord",Laboratoire d'anatomopathologie,Place Victor Pauchet,Amiens,80000.0,Academic,Validating,,In house,,,,53.0,53.0,53.0,1.0,Kit,,,,Yes,,Ventana,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2048,France,3/4/2017,5/1/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Hôpital Morvan,Laboratoire d'anatomopathologie,2 avenue Foch,Brest Cedex,29609.0,Academic,Yes,2016,In house,,Individual,18.0,52.0,52.0,52.0,1.0,LDT,E1L3N,,,,Sequential,Ventana,,Reporting percentage tumor cells expressed,47%,5%,Over 50%,-,-,-,-,5%,4.0,,Local,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2049,France,3/5/2017,5/2/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Hôpital Henri Mondor,Laboratoire d'anatomopathologie et de biologie moléculaire,51 avenue du Maréchal de Lattre de Tassigny,Paris Creteil cedex,94010.0,Hospital,Yes,Feb-17,In house,,Individual,12.0,51.0,51.0,51.0,1.0,LDT,E1L3N,,,,Sequential,Leica,,Reporting percentage tumor cells expressed,,,,,,,,,2.0,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2050,France,3/6/2017,5/3/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+CHU Toulouse -  IUCT-Oncopole,Département d'Anatomie ,1 Avenue Irène Joliot-Curie,Toulouse Cedex 9,31059.0,Academic,Yes,Jan-17,In house,,Reflex,12.0,51.0,51.0,51.0,2.0,LDT,E1L3N; SP142,,,,Sequential,Ventana,,Reporting percentage tumor cells expressed,,,,,,,-,,3.0,,Local,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2051,France,3/7/2017,5/4/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Hôpital La Source,"Laboratoire de Biologie Moléculaire/Pôle de biopathologies, Unité fonctionnelle de biologie moléculaire",14 avenue de l'hôpital,Orléans cedex 2,45067.0,Hospital,No,,,,,,51.0,51.0,51.0,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2052,France,3/8/2017,5/5/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Institut Jean Godinot,Laboratoire d'anatomopathologie et de biologie moléculaire,"1 rue du Général Koenig, BP 171",Reims Cedex,51056.0,Hospital,No***,,,,,,50.0,50.0,50.0,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2053,France,3/9/2017,5/6/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Centre Hospitalier Lyon Sud,Service d'anatomie pathologiques et Service de Biochimie,"165 chemin du Grand Revoyet,",Pierre Bénite,69495.0,Academic,Validating,,In house,,,,49.0,49.0,49.0,2.0,LDT,E1L3N; SP142,,,,,Ventana,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2054,France,3/10/2017,5/7/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+CHRU Besançon - Bâtiment bleu niv +2,Laboratoire de Biologie Médicale,3 boulevard Alexandre Fleming,Besançon,25000.0,Hospital,Yes,2016,In house,,Individual,16.0,46.0,46.0,46.0,2.0,Both,SP142,,,Yes,Parallel,Ventana,,Reporting percentage tumor cells expressed,64%,,Over 50%,-,-,-,10%,-,4.0,,Local,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2055,France,3/11/2017,5/8/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Centre Léon Bérard,Laboratoire d'anatomopathologie et de biologie moléculaire,28 rue Laënnec,Lyon cedex 08,69373.0,Hospital,No*,,,,,,42.0,42.0,42.0,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2056,France,3/12/2017,5/9/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Hôpital Paul Brousse,Laboratoire d'anatomopathologie/ Laboratoire de Biologie Moléculaire,14 avenue Paul Vaillant Couturier,Paris Villejuif cedex,94804.0,Hospital,No,,,,,,40.0,40.0,40.0,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2057,France,3/13/2017,5/10/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Hôpital Cochin,Laboratoire d'anatomopathologie,27 rue du Faubourg Saint Jacques,Paris cedex 14,75679.0,Hospital,Yes,Jan-17,In house,,Reflex,12.0,38.0,38.0,38.0,2.0,LDT,E1L3N; SP142,,,,Sequential,Leica,,Reporting percentage tumor cells expressed,,,,,,,-,,3.0,,Local,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2058,France,3/14/2017,5/11/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Hôpital de la Croix Rousse,Laboratoire d'anatomopathologie,50 bld Pinel,Lyon,69004.0,Academic,Validating,,In house,,,,33.0,33.0,33.0,1.0,LDT,E1L3N,,,,,Ventana,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2059,France,3/15/2017,5/12/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Hôpital Charles Nicolle,Laboratoire d'anatomopathologie et de génétique moléculaire/ Laboratoire de génétique somatique des tumeurs,1 rue de Germont,Rouen Cedex,76031.0,Academic,Yes,2016,In house,,Individual,13.0,29.0,29.0,29.0,1.0,LDT,E1L3N,,,,Sequential,Leica,,Reporting percentage tumor cells expressed,56%,10%,Over 50%,-,-,-,-,9%,4.0,,Local,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2060,France,3/16/2017,5/13/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Hôpital Pontchaillou,Laboratoire de Biologie Moléculaire/Service de Génétique Moléculaire et Génomique/Service de Cytogénétique et Biologie Cellulaire,2 rue Henri Le Guilloux,Rennes cedex 09,35033.0,Hospital,Validating,,In house,,,,29.0,29.0,29.0,2.0,Both,E1L3N,,,Yes,Sequential,Ventana,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2061,France,3/17/2017,5/14/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Hôpital Ambroise Paré,Laboratoire d'histopathologie et de pathologie moléculaire,9 avenue Charles de Gaulle,Boulogne-billancourt,92100.0,Hospital,Yes,2016,In house,,Individual,9.0,25.0,25.0,25.0,1.0,LDT,E1L3N,,,,Sequential,Ventana,,Reporting percentage tumor cells expressed,,,,,,,,,3.0,,Local,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2062,France,3/18/2017,5/15/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+CHRU Besançon,SIP d'anatomopathologie et biologie cellulaire,3 boulevard Alexandre Fleming,CHRU Besançon - Bâtiment gris niv-2,25000.0,Academic,No,,,,,,25.0,25.0,25.0,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2063,France,3/19/2017,5/16/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+CHU de Poitiers,Laboratoire de Biologie Moléculaire,2 rue de la Milétrie,Poitiers Cedex,86021.0,Academic,Validating,,In house,,,,23.0,23.0,23.0,1.0,LDT,E1L3N,,,,,Ventana,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2064,France,3/20/2017,5/17/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Centre Antoine Lacassagne,Laboratoire de Biologie Moléculaire,33 avenue de Valombrose,Nice Cedex 02,6189.0,Hospital,Validating,,In house,,,,23.0,23.0,23.0,3.0,Both,E1L3N; SP142,,,Yes,Sequential,Ventana,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2065,France,3/21/2017,5/18/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Hôpital Carémeau,Laboratoire de biochimie et biologie Moléculaire,Place du Professeur Robert Debré,Nîmes cedex 09,30029.0,Academic,Yes,Jan-17,In house,,Individual,3.0,17.0,17.0,17.0,1.0,LDT,E1L3N,,,,Sequential,,,Reporting percentage tumor cells expressed,,,50%,,,,,,3.0,,Local,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2066,France,3/22/2017,5/19/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+ Hôpital Hautepierre - CHU de Strasbourg,Laboratoire d'anatomopathologie Hôpital Hautepierre,1 avenue Molière,Strasbourg Cedex,67098.0,Academic,No,,,,,,17.0,17.0,17.0,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2067,France,3/23/2017,5/20/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Hôpital Avicenne,Laboratoire de Biologie Moléculaire/Service de Biochimie et de biologie moléculaire /Service d'anatomie et de cytologie pathologiques,125 rue de Stalingrad,Paris Bobigny Cedex,93009.0,Hospital,No,,,,,,16.0,16.0,16.0,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2068,France,3/24/2017,5/21/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+CHRU de Lille,Institut de Pathologie/ Centre de biologie et de pathologie,2 avenue Oscar Lambret,Lille Cedex,59037.0,Academic,Yes,2016,In house,,Individual,4.0,11.0,11.0,11.0,1.0,LDT,E1L3N,,,,Sequential,Ventana,,Reporting percentage tumor cells expressed,,,Over 50%,-,-,-,-,-,4.0,,Local,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2069,France,3/25/2017,5/22/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Hôpital Trousseau,Laboratoire d'anatomopathologie/Laboratoire de Biologie Moléculaire,Avenue de la République,Chambray-lès-tours,31170.0,Hospital,Validating,,In house,,,,11.0,11.0,11.0,1.0,LDT,E1L3N,,,,,Ventana,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2070,France,3/26/2017,5/23/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Hôpital Universitaire Dupuytren,"Pôle Biologie-Hygiène, Laboratoire de Pathologie",2 avenue Martin Luther King,Limoges,87042.0,Hospital,No**,,,,,,10.0,10.0,10.0,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2071,France,3/27/2017,5/24/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Hôpital d'Enfants de la Timone,Service de Biologie Cellulaire/Laboratoire de Biologie Médicale,264 Rue St. Pierre,Marseille Cedex 05 ,13385.0,Hospital,Yes,Jan-17,In house,,Individual,5.0,5.0,5.0,5.0,3.0,Both,E1L3N; SP142,,,Yes,Sequential,Ventana,,Reporting percentage tumor cells expressed,,,,,,,8%,,3.0,,Local,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2072,France,3/28/2017,5/25/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+CHU d'Angers,"Plateforme SNP, Transcriptome et Epigénomique ",4 rue Larrey,Angers Cedex 09,49933.0,Academic,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2073,France,3/29/2017,5/26/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Hôpital clémenceau,Laboratoire de Biologie Moléculaire Hôpital clémenceau,Avenue Georges Clémenceau,Caen Cedex 09,14033.0,Academic,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2074,France,3/30/2017,5/27/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+Faculté de Nice,Laboratoire de Biologie Moléculaire/Laboratoire de Génétique des tumeurs solides,28 avenue de Valombrose,Nice 02,6107.0,Hospital,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2075,France,3/31/2017,5/28/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,* Leon Berard is treating lung cancer patients in clinical trials only - and they are testing them for PD-L1 in this context. The CTs are not only pharma funded but also from the center.,,,,,0.0,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,France Febr-March 2076,France,4/1/2017,5/29/2017,Lung,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,** clinical trials only for PD-L1 tests,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,*** waiting to choose the right antibody,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,#REF!,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,France PDL1 Excel_worksheet_France Feb-Mar 2017,,,,,,France Feb-Mar 2017,france,2017,2017-02-01,2017-03-01
