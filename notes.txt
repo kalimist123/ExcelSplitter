@@ -1,0 +1,10 @@
+-m pip install --upgrade pip
+pip install pandas
+pip install chardet
+
+-m pip install --upgrade pip
+
+PowerShell.exe -file "D:\Projects\ExcelSplitter\splitter.ps1" -filepath "France PDL1 Excel.xlsx" -output_type "csv"
+
+pip install python-dateutil
+pip install MonthDelta
