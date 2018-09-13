@@ -1,16 +1,48 @@
 from dateutil.parser import parse
-
+import datetime
+import monthdelta
 
 
 import re
 
 
-file = "France PD-L1 1999 clack string"
+filename = "France PD-L1 1999 may feb clack string"
 
-match = re.match(r'.*([1-3][0-9]{3})', file)
-if match is not None:
-    print (match.group(1))
+secondmonth=firstmonth=""
+months = ("jan", "feb", "mar", "april", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec")
+monthmatch = next((x for x in months if x in filename.lower()), False)
+if(monthmatch!=False):
+    firstmonth=monthmatch
 
+
+monthmatch = next((x for x in months if x in filename.replace(firstmonth, '').lower()), False)
+if(monthmatch!=False):
+    secondmonth=monthmatch
+
+tempmonth = firstmonth
+if filename.find(firstmonth) > filename.find(secondmonth):
+    firstmonth=secondmonth
+    secondmonth=tempmonth
+
+print(firstmonth)
+print(secondmonth)
+
+
+print(months.index(firstmonth)+1)
+print(months.index(secondmonth)+1)
+
+firstdate = datetime.date(1987, months.index(firstmonth)+1,1)
+seconddate = datetime.date(1987, months.index(secondmonth)+1,1)
+
+monthdifference =  months.index(secondmonth)- months.index(firstmonth)
+
+if monthdifference<0:
+    monthdifference+=12
+
+print("monthdifference:"+ str(monthdifference))
+print(firstdate)
+enddate = firstdate + monthdelta.monthdelta(monthdifference)
+print(enddate)
 """""
 file = "France PD-L1 clack string"
 
